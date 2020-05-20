@@ -1,0 +1,7 @@
+pika
+flask
+requests
+sqlalchemy
+flask_sqlalchemy
+docker
+kazoo
